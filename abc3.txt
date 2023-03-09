@@ -4,3 +4,8 @@
 git remote add origin https://github.com/alvasilvao/sanluca_weather.git
 git branch -M main
 git push -u origin main
+
+subprocess.run(["cd","~"])
+subprocess.run(["git","add","."])
+subprocess.run(["git","commit","-m","'msg"])
+
