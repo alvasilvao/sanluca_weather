@@ -1,6 +1,0 @@
-(base) ➜  sanluca_weather git:(main) ✗ git add .                                                                
-(base) ➜  sanluca_weather git:(main) ✗ git commit -m 'your message'  
-
-git remote add origin https://github.com/alvasilvao/sanluca_weather.git
-git branch -M main
-git push -u origin main
